@@ -37,8 +37,8 @@ const handleFormSubmit = function(event) {
 };
 
 
-const deleteButton = document.querySelector("button");
-deleteButton.addEventListener("submit", handleDelete);
+// const deleteButton = document.querySelector("button");
+// deleteButton.addEventListener("submit", handleDelete);
 
 // const handleDelete = function(event) {
 //   console.dir(event);
